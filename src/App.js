@@ -7,6 +7,7 @@ function App() {
      <h1>Learning about Pull</h1>
      <h2>Learning about push</h2>
     <h1>Important Topic learned Pull</h1>
+    <h2>Sending to github by using push</h2>
     </div>
   );
 }
